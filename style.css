@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(50, 18, 81);
+  padding: 1rem;
+  /* color: white; */
+}
+.sec1 {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+input {
+  padding: 0.8rem 12rem 0.8rem 0.2rem;
+  border: 2px rgb(201, 197, 197) solid;
+}
+.sec1 img {
+  width: 30%;
+  padding: 1rem;
+}
+.cloth {
+  background-color: white;
+  width: 30%;
+  height: 70vh;
+  overflow: scroll;
+  margin-top: 1rem;
+  margin: 0 auto;
+}
+h2 {
+  font-size: 1rem;
+}
+h3 {
+  font-size: 0.8rem;
+}
